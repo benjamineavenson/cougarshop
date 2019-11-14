@@ -4,3 +4,24 @@
   background-color: #F6F6F6;
   border: none;
 }
+#logo{
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#mid{
+  margin-top: 10px;
+}
+#mid-menu{
+  border: none;
+}
+#big-img{
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+#big-img-container{
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+}
